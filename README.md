@@ -11,6 +11,6 @@ Hey Welcome To Here 💫💫 You Can Make Your Own Management Bot
 
 [![Zaid Backup LOGO](https://telegra.ph/file/c28fea3154adf03b561c3.jpg)](https://t.me/SUPERIOR_SUPPORT )
 
-🔥 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐈𝐒𝐊 🔥
+🔥 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐈𝐒𝐊 🔥 
 
-Don't Ask For How to Run These Codes = Ban... In Our Support Groups.... be Carefull
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Searosan/OsmaniRobot-"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
